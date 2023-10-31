@@ -1,0 +1,10 @@
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\bin\Debug\ImageDownsizer.exe.config
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\bin\Debug\ImageDownsizer.exe
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\bin\Debug\ImageDownsizer.pdb
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.csprojAssemblyReference.cache
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.Form1.resources
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.Properties.Resources.resources
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.csproj.GenerateResource.cache
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.csproj.CoreCompileInputs.cache
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.exe
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.pdb
